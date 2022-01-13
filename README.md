@@ -5,6 +5,7 @@
  Cypress CYBLE-416045-02 Bluetooth 5.0 Module, WS2812B individually addressable LEDs, vibro-motors, magnets and 3D printed enclosure!
  
  ![](visuals/Kontakts_tests.jpg)
+ ![](visuals/pcb.jpeg)
  ![](visuals/video.gif)
  
  ### Credits
